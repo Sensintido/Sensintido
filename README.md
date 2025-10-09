@@ -2,25 +2,19 @@
 
 <br>
 
-<div align="center">
+<div align="center"style="text-align: center;>
   
   <b>`Hello World`</b>
-  <samp>
+<samp>
       <br>
       Prazer! eu sou <b>Lucas Gabriel W de Souza</b>
-  </samp>
-</div>
-
-<div align="center" width="100%">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=3000&pause=500&color=5C0FBD&width=435&lines=Seja+Bem+Vindo;Conhe%C3%A7a+Um+Pouco+Sobre+Mim;Sou+Desenvolvedor+Frontend;Tenho+o+Sonho+de+Ser+FullStack;Atualmente+Estudando+Backend" alt="Typing SVG"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
-</div>
       
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=3000&pause=500&color=1851BD&width=435&lines=Seja+Bem+Vindo;Conhe%C3%A7a+Um+Pouco+Sobre+Mim;Sou+Desenvolvedor+Frontend;Tenho+o+Sonho+de+Ser+FullStack;Atualmente+Estudando+Backend" alt="Typing SVG" />
+</samp>
+</div>
+
+##
+
 <br>
 <br>
       
@@ -69,7 +63,7 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
+  ![Instagram](https://img.shields.io/badge/instagram-%231851BDFF?style=for-the-badge&logo=instagram&link=https%3A%2F%2Finstagram.com%2F__lkcl)
   [![Discord](https://img.shields.io/badge/Discord-6e3a5d?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
   
@@ -99,4 +93,4 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=5C0FBDFF&section=footer"/>
