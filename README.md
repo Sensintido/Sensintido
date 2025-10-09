@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
-  <a src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff79c6&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <a src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=3000&pause=500&color=5C0FBD&width=435&lines=Seja+Bem+Vindo;Conhe%C3%A7a+Um+Pouco+Sobre+Mim;Sou+Desenvolvedor+Frontend;Tenho+o+Sonho+de+Ser+FullStack;Atualmente+Estudando+Backend" alt="Typing SVG"/>
 </div>
 
 <br>
