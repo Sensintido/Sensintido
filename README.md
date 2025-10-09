@@ -19,12 +19,12 @@
   </a>
   
   <!-- Discord -->
-  <a href="https://discord.gg/Sensintido" target="_blank">
+  <a href="https://discord.gg/sensintido" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a> 
   
   <!-- Gmail -->
-  <a href="mailto:lucasgabrielwdesouza@gmail.com" target="_blank">
+  <a href="mailto:LucasGabrielWdeSouza@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
