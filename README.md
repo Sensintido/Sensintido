@@ -62,23 +62,12 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  ![Instagram](https://img.shields.io/badge/instagram-%231851BDFF?style=for-the-badge&logo=instagram&link=https%3A%2F%2Finstagram.com%2F__lkcl)
-  [![Discord](https://img.shields.io/badge/Discord-6e3a5d?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  [![Gmail](https://img.shields.io/badge/Gmail-%231851BDFF?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:lucasgabrielwdesouza@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-%231851BDFF?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/__lkcl/?next=%2F)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231851BDFF?style=for-the-badge&logo&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-b83733312/)
   
 </div>
 
-<div align="center">
-  <p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-      </samp>
-  </p>
-</div>
 <br>
 
 </details>
