@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=581C94"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=5C0FBDFF"/>
 
 <br>
 
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
-  <a src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=3000&pause=500&color=5C0FBD&width=435&lines=Seja+Bem+Vindo;Conhe%C3%A7a+Um+Pouco+Sobre+Mim;Sou+Desenvolvedor+Frontend;Tenho+o+Sonho+de+Ser+FullStack;Atualmente+Estudando+Backend" alt="Typing SVG"/>
+  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=3000&pause=500&color=5C0FBD&width=435&lines=Seja+Bem+Vindo;Conhe%C3%A7a+Um+Pouco+Sobre+Mim;Sou+Desenvolvedor+Frontend;Tenho+o+Sonho+de+Ser+FullStack;Atualmente+Estudando+Backend" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -34,7 +34,8 @@
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typecript/typecript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
