@@ -8,9 +8,8 @@
 <samp>
       <br>
       Prazer! eu sou <b>Lucas Gabriel W de Souza</b>
-      
+ </samp>     
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=3000&pause=500&color=1851BD&width=435&lines=Seja+Bem+Vindo;Conhe%C3%A7a+Um+Pouco+Sobre+Mim;Sou+Desenvolvedor+Frontend;" alt="Typing SVG" />
-</samp>
 </div>
 
 🎓 Estudante de Desenvolvimento no Cedup Hermann Hering | FrontEnd e IA
@@ -30,11 +29,11 @@
 
 <br>
 
-<div align="center" style="text-align: center;">
-    <h3 style="font-size: 300px;">FrontEnd</h3>
+<div>
+    <h3>FrontEnd</h3>
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<div><br>
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -46,22 +45,22 @@
 
 <br>
 
-<div align="center"style="text-align: center;">
+<div>
     <b>BackEnd</b>
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<div><br>
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
 
 <br>
 
-<div align="center"style="text-align: center;">
+<div>
     <b>Banco de Dados</b>
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<div><br>
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
