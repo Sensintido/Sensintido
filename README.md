@@ -14,6 +14,8 @@
 
 🎓 Estudante de Desenvolvimento no Cedup Hermann Hering | FrontEnd e IA
   - Estou estudando para me tornar um **desenvolvedor FullStack** e **especialista em IA**. Sempre querendo **evoluir** e me **superar**.
+  - Curso de Informática Avançada
+  - Curso de Design Gráfico
 
 <br>
 
@@ -72,7 +74,9 @@
 
 <br>
 <br>
-      
+
+  # GitHub
+  
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Sensintido&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sensintido&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
