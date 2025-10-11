@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=001CAB&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=440669&section=header"/>
 
 <br>
 
@@ -9,7 +9,7 @@
       <br>
       Prazer! eu sou <b>Lucas Gabriel W de Souza</b>
  </samp>     
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=3000&pause=500&color=1851BD&width=435&lines=Seja+Bem+Vindo;Conhe%C3%A7a+Um+Pouco+Sobre+Mim;Sou+Desenvolvedor+Frontend;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=3000&pause=500&color=560885&width=435&lines=Seja+Bem+Vindo;Conhe%C3%A7a+Um+Pouco+Sobre+Mim;Sou+Desenvolvedor+Frontend;" alt="Typing SVG" />
 </div>
 
 🎓 Estudante de Desenvolvimento no Cedup Hermann Hering | FrontEnd e IA
@@ -23,6 +23,9 @@
 - Buscando oportunidades para **aprender** e **colaborar** em projetos open-source 🌍
 - Estudando Backend
 ---
+
+<br>
+
 <div align="center"style="text-align: center;">  
   <h3>💻 Languages and Tecnologias</h3>
 </div>
@@ -46,7 +49,7 @@
 <br>
 
 <div>
-    <b>BackEnd</b>
+    <h3>BackEnd</h3>
 </div>
 
 <div><br>
@@ -57,16 +60,15 @@
 <br>
 
 <div>
-    <b>Banco de Dados</b>
+    <h3>Banco de Dados</h3>
 </div>
+
 
 <div><br>
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
 </div>
-
-##
 
 <br>
 <br>
@@ -104,17 +106,20 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-%231851BDFF?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:lucasgabrielwdesouza@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-%231851BDFF?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/__lkcl/?next=%2F)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231851BDFF?style=for-the-badge&logo&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-b83733312/)
-  
-</div>
+  [![Gmail](https://img.shields.io/badge/Gmail-440669?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:lucasgabrielwdesouza@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-440669?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/__lkcl/?next=%2F)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-440669?style=for-the-badge&logo&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-b83733312/)
 
+</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake.svg">
+</picture>
 <br>
 
 </details>
 
-
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=001CAB&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=440669&section=footer"/>
