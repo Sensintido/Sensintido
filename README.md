@@ -12,6 +12,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9E34E5&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Software+Engineer+;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </p>
 
+<div align="center">
+  <div style="display: inline-block; padding-left: 60px;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtmNjNrbHR5ZzdkMDlkbTQ2aWVubGJ0b3RoNXIzejhjbDhuaWdoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F5hb4n7SLMYO4/giphy.gif" width="500">
+  </div>
+</div>
+
 🎓 Estudante de Desenvolvimento no Cedup Hermann Hering | FrontEnd e IA
   - Estou estudando para me tornar um **desenvolvedor FullStack** e **especialista em IA**. Sempre querendo **evoluir** e me **superar**.
   - Curso de Informática Avançada
