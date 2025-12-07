@@ -1,16 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=440669&section=header"/>
-
-<br>
-
-<div align="center"style="text-align: center;">
+<div align="center">
   
   <b>`Hello World!`</b>
-<samp>
+  <samp>
       <br>
-      Prazer! eu sou <b>Lucas Gabriel W de Souza</b>
- </samp>     
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=3000&pause=500&color=560885&width=435&lines=Seja+Bem+Vindo;Conhe%C3%A7a+Um+Pouco+Sobre+Mim;Sou+Desenvolvedor+Frontend;" alt="Typing SVG" />
+      <b>Lucas Gabriel W de Souza</b>
+  </samp>
 </div>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=b5b1ff&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Software+Engineer+;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</p>
 
 🎓 Estudante de Desenvolvimento no Cedup Hermann Hering | FrontEnd e IA
   - Estou estudando para me tornar um **desenvolvedor FullStack** e **especialista em IA**. Sempre querendo **evoluir** e me **superar**.
