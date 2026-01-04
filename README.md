@@ -14,7 +14,7 @@
 
 <div align="center">
   <div style="display: inline-block; padding-left: 60px;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtmNjNrbHR5ZzdkMDlkbTQ2aWVubGJ0b3RoNXIzejhjbDhuaWdoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F5hb4n7SLMYO4/giphy.gif" width="500">
+    <img src="https://i.pinimg.com/originals/1f/20/55/1f20558bc93e0b2f73ef15ab38d626a9.gif" width="500">
   </div>
 </div>
 
@@ -81,12 +81,7 @@
 <br>
 <br>
 
-  # GitHub
-  
-<div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Sensintido&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sensintido&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
-  <br>
+
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sensintido&theme=tokyonight"/>
 </div>
