@@ -83,7 +83,7 @@
 
 
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sensintido&theme=tokyonight"/>
+  <img aling="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sensintido&theme=github_dark"/>
 </div>
 
 <br>
